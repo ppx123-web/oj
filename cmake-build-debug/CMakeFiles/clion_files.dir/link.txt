@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/clion_files.dir/main.cpp.o CMakeFiles/clion_files.dir/oj3-7/1.cpp.o  -o clion_files 
